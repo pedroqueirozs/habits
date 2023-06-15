@@ -16,7 +16,7 @@ NLW é umrograma exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,8 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
-O habits é um app para ajudar a rastrear os habitos .
--[Visite o projeto online](https://pedroqueirozs.github.io/habits/)
+
+O habits é um app para ajudar a rastrear os habitos . -[Visite o projeto online](https://pedroqueirozs.github.io/habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
