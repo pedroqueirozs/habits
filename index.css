@@ -18,9 +18,8 @@ header {
   width: 100%;
   background-color: black;
 }
-header p,
-span {
-  font-size: 30px;
+header p {
+  font-size: 20px;
 }
 button {
   padding: 16px 24px;
